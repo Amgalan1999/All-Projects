@@ -1,0 +1,8 @@
+# Optional npm cahce directory
+.npm
+
+# dotenv enviroment variables file
+.env
+
+# Dependency directories
+node_modules/
